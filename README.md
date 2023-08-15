@@ -1,6 +1,6 @@
 <h1 align="center" id="title">ShopHub🛒</h1>
 
-<p align="center"><img src="https://raw.githubusercontent.com/aniketpandey2912/pantaloons-clone/main/public/pantaloons_favicon.ico" alt="project-image" width="300" height="150/"></p>
+<p align="center"><img src="C:\Users\Hp\OneDrive\Desktop\ANURAG WEB DEV\SHOPHUB\img\Logo 500x500 px.jpeg" alt="project-image" width="300" height="150/"></p>
 
 <p>This is a clone of an e-commerce website Pantaloons replicating some of the features and functionalities of original website.</p>
 
@@ -39,13 +39,6 @@ git clone https://github.com/anuragpandey7/ShopHub.git
 
 **Frontend:**
 
-HTML, CSS, JavaScript
-
-**Backend:**
-
-![nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
-![expressjs](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)&nbsp;
-![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
-![jwt](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)&nbsp;
+HTML, CSS, JavaScript, LocalStorage
 
 <h2>Thanks 😊</h2>
