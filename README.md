@@ -14,11 +14,19 @@
 
 <h2>Highlights of website</h2>
 
+<h3>Sign Up Page</h3>
+
 <img src="https://raw.githubusercontent.com/anuragpandey7/ShopHub/6279d01492ddeeebc7e0ab5f459ccd484b50d5c0/img/1.png" alt="project-screenshot" width="500" height="250/">
+
+<h3>Login Page</h3>
 
 <img src="https://raw.githubusercontent.com/anuragpandey7/ShopHub/6279d01492ddeeebc7e0ab5f459ccd484b50d5c0/img/2.png" alt="project-screenshot" width="500" height="250/">
 
+<h3>Home Page</h3>
+
 <img src="https://raw.githubusercontent.com/anuragpandey7/ShopHub/6279d01492ddeeebc7e0ab5f459ccd484b50d5c0/img/3.png" alt="project-screenshot" width="500" height="250/">
+
+<h3>Cart Page</h3>
 
 <img src="https://raw.githubusercontent.com/anuragpandey7/ShopHub/6279d01492ddeeebc7e0ab5f459ccd484b50d5c0/img/4.png" alt="project-screenshot" width="500" height="250/">
 
