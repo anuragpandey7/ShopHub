@@ -1,6 +1,6 @@
 <h1 align="center" id="title">ShopHub🛒</h1>
 
-<p align="center"><img src="C:\Users\Hp\OneDrive\Desktop\ANURAG WEB DEV\SHOPHUB\img\Logo 500x500 px.jpeg" alt="project-image" width="300" height="150/"></p>
+<p align="center"><img src="https://github.com/anuragpandey7/ShopHub/blob/master/img/Logo%20500x500%20px.jpeg?raw=true" alt="project-image" width="300" height="150/"></p>
 
 <p>This is a clone of an e-commerce website Pantaloons replicating some of the features and functionalities of original website.</p>
 
